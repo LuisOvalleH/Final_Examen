@@ -9,3 +9,4 @@ if animal=="perros":
     print("A mi tambien me gustan los perros")
 else:
     print("Es un animal interestante, pero me gustan mas los perros")
+    
