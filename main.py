@@ -10,3 +10,4 @@ if animal=="ornitorrinco":
 else:
     print("Es un animal interestante, pero me gustan mas los ornitorrincos")
     
+    
