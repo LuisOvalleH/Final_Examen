@@ -5,8 +5,7 @@ print("Carrera: Ingenieria en sistemas")
 
 print("Porfavor ingrese el nombre de su animal favorito")
 animal=input()
-if animal=="ornitorrinco":
-    print("A mi tambien me gustan los ornitorrincos")
+if animal=="perros":
+    print("A mi tambien me gustan los perros")
 else:
-    print("Es un animal interestante, pero me gustan mas los ornitorrincos")
-    
+    print("Es un animal interestante, pero me gustan mas los perros")
