@@ -10,3 +10,7 @@ Mi escena favorita es cuando estan en la fiesta y llega un grupo de universitari
 ![Esta es una imagen](https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/3294/3294_901x600.jpg)
 ## Duracion de la pelicula
 1hora 41minutos 😎 
+## Lista de puntos positivos
+- [x] Pelicula agradable#1
+- [x] Saca muchas risas#2
+- [x] La duracion no es mucha#3
