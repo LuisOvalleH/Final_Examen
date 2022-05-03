@@ -13,4 +13,6 @@ Mi escena favorita es cuando estan en la fiesta y llega un grupo de universitari
 ## Lista de puntos positivos
 - [x] Pelicula agradable#1
 - [x] Saca muchas risas#2
-- [x] La duracion no es mucha#3
+- [x] La duracion no es mucha#
+# Mencion de compañeros de trabajo
+https://github.com/JoshuaAscoli
